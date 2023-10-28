@@ -3,7 +3,8 @@
 
 
 
-[!Static Badge](https://img.shields.io/badge/QQ-QQ?link=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DbgFeF6L28_DY9UVAMnkwhbau3IWmsGLG%26jump_from%3Dwebapi%26authKey%3DI5%2BZz3pUS%2FubE6nNyucIT%2B4E3N1vLfpR3R4xK7DDPvYRNJ6WbbK5LS9qfD4d1nfo)
+<img alt="Static Badge" src="https://img.shields.io/badge/QQ-QQ?link=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DbgFeF6L28_DY9UVAMnkwhbau3IWmsGLG%26jump_from%3Dwebapi%26authKey%3DI5%2BZz3pUS%2FubE6nNyucIT%2B4E3N1vLfpR3R4xK7DDPvYRNJ6WbbK5LS9qfD4d1nfo">
+
 
   
   
